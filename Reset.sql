@@ -1,4 +1,4 @@
--- Reset DWH for case Study
+-- Reset DWH for case Study. January 2025. 2025 will be a good year for me. 
 
 -- Check if externalDB exists, if not create it
 IF NOT EXISTS (SELECT name FROM sys.databases WHERE name = N'externalDB')
